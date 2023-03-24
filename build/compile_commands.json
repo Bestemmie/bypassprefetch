@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/coding/c++/bypassprefetch/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\bypassprefetch.dir\\src\\filehandles.cpp.obj -c C:\\coding\\c++\\bypassprefetch\\src\\filehandles.cpp",
+  "file": "C:\\coding\\c++\\bypassprefetch\\src\\filehandles.cpp"
+},
+{
+  "directory": "C:/coding/c++/bypassprefetch/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\bypassprefetch.dir\\src\\main.cpp.obj -c C:\\coding\\c++\\bypassprefetch\\src\\main.cpp",
+  "file": "C:\\coding\\c++\\bypassprefetch\\src\\main.cpp"
+},
+{
+  "directory": "C:/coding/c++/bypassprefetch/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\bypassprefetch.dir\\src\\prefetch.cpp.obj -c C:\\coding\\c++\\bypassprefetch\\src\\prefetch.cpp",
+  "file": "C:\\coding\\c++\\bypassprefetch\\src\\prefetch.cpp"
+},
+{
+  "directory": "C:/coding/c++/bypassprefetch/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\bypassprefetch.dir\\src\\utilities.cpp.obj -c C:\\coding\\c++\\bypassprefetch\\src\\utilities.cpp",
+  "file": "C:\\coding\\c++\\bypassprefetch\\src\\utilities.cpp"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+55	6067	7013517292226325	CMakeFiles/bypassprefetch.dir/src/utilities.cpp.obj	783845eec32b2368
+38	6103	7013517292286657	CMakeFiles/bypassprefetch.dir/src/prefetch.cpp.obj	770f5286f3590f4f
+7	6125	7013517292556755	CMakeFiles/bypassprefetch.dir/src/filehandles.cpp.obj	53b9dcc696084d30
+22	6198	7013517293608213	CMakeFiles/bypassprefetch.dir/src/main.cpp.obj	251b7aed9ac6ccd6
+6199	6789	7013517299326949	bypassprefetch.exe	bce1e42d5c0ad6a5
