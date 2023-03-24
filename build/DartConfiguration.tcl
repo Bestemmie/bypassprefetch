@@ -45,7 +45,7 @@ SVNOptions:
 SVNUpdateOptions: 
 
 # Git options
-GITCommand: 
+GITCommand: C:/Users/leonardo.florenz.ext/AppData/Local/Programs/Git/cmd/git.exe
 GITInitSubmodules: 
 GITUpdateOptions: 
 GITUpdateCustom: 
@@ -58,9 +58,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: C:/Users/leonardo.florenz.ext/AppData/Local/Programs/Git/cmd/git.exe
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: C:/msys64/mingw64/bin/g++.exe
